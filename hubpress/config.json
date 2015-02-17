@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "facurubin",
-    "repositoryName": "facurubin.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"facurubin","repositoryName":"facurubin.github.io","branch":"master"},"site":{"url":"http://facurubin.github.io"},"socialnetwork":{"email":"facundonahuel9@gmail.com","twitter":""},"theme":{"name":"Casper","url":"http://facurubin.github.io/themes/Casper"}}
